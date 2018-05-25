@@ -1,0 +1,2 @@
+# snippet
+Oftenly usefull code
